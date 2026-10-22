@@ -4,7 +4,7 @@ Dead Signal Library - Helper, by Dead Signal Interactive.
 
 [Website](https://raiinman.github.io/dsl-helper/) · [Updates](https://raiinman.github.io/dsl-helper/updates/) · [Support](https://raiinman.github.io/dsl-helper/support/) · [Privacy](https://raiinman.github.io/dsl-helper/privacy/) · [Terms](https://raiinman.github.io/dsl-helper/terms/)
 
-DSL-Helper brings 137 bundled specialist guides into ChatGPT and Codex, with version-pinned online retrieval and an explicit bundled-only mode.
+DSL-Helper brings 140 bundled specialist guides into ChatGPT and Codex, with version-pinned online retrieval and an explicit bundled-only mode.
 
 Support: michael@deadsignal.studio.
 
